@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Group Hunter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="title_activity_action">ActionActivity</string>
+    <string name="title_activity_fragment_b">FragmentB</string>
+    <string name="title_activity_my">MyActivity</string>
+
+    <string-array name="planets_array">
+        <item>select class</item>
+        <item>CSC-505</item>
+        <item>CSC-520</item>
+        <item>CSC-554</item>
+    </string-array>
+
+    <string name="title_activity_profile">Profile</string>
+
+</resources>
